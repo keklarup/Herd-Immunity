@@ -1,4 +1,4 @@
-random >= 0.0
+#random >= 0.0
 numpy >= 0.0
 matplotlib >= 0.0
 pandas >= 0.0
