@@ -3,5 +3,5 @@ numpy >= 0.0
 matplotlib >= 0.0
 pandas >= 0.0
 seaborn >= 0.0
-time >= 0.0
+#time >= 0.0
 IPython >= 0.0
